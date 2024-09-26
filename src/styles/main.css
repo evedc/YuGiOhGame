@@ -37,6 +37,10 @@
     justify-content: space-around;
 }
 
+.container__right {
+    width: 65%;
+}
+
 .score_box {
     background-color: #fff;
     padding: 30px;
